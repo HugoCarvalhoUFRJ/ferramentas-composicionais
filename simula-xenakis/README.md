@@ -1,6 +1,6 @@
 # Simula Xenakis
 
-Código desenvolvido a pedido do [Prof. Liduino Pitombeira](https://pitombeira.com/) para facilitar a geração de material musical utilizando ferramentas estocásticas, conforme Iannis Xenakis. Todas as funções do arquivo `XENAKIS.py` são de minha autoria, seguindo instruções do Prof. Liduino, e gerados com assistência de LLM para melhor lidar com o pacote `music21`.
+Código desenvolvido a pedido do [Prof. Liduino Pitombeira](https://pitombeira.com/) para facilitar a geração de material musical utilizando ferramentas estocásticas, conforme Iannis Xenakis. Todas as funções do arquivo `XENAKIS.py` são de minha autoria, seguindo instruções do Prof. Liduino, e gerados com assistência de LLM para melhor lidar com o pacote `music21`. Adicionamente, gerei o tutorial abaixo para estudantes que não estão familiarizados com Python.
 
 1) Entre no [Google Colab](https://colab.research.google.com/), e clique no botão azul `+ Novo notebook`. Esteja logado em sua conta Google, pois esse notebook poderá ser acessado novamente.
 
