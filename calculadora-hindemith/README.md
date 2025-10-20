@@ -6,9 +6,10 @@ Código desenvolvido a pedido do [Prof. Liduino Pitombeira](https://pitombeira.c
 
 2) Na célula que tem um botão de `Play` do lado esquerdo, copie e cole as duas linhas de código abaixo:
 
-`!wget https://raw.githubusercontent.com/HugoCarvalhoUFRJ/calculadora-hindemith/refs/heads/main/HINDEMITH.py`
-
-`from HINDEMITH import *`
+```python
+https://raw.githubusercontent.com/HugoCarvalhoUFRJ/ferramentas-composicionais/refs/heads/main/calculadora-hindemith/HINDEMITH.py`
+from HINDEMITH import *
+```
 
 4) Clique no botão de `Play`, e quando aparecer um *check* verde ao lado dele, deu tudo certo.
 
