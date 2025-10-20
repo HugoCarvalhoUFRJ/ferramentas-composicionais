@@ -44,6 +44,8 @@ dataframe_para_midi( # Essa função recebe como entrada o dataframe gerado acim
     df = df_xenakis, # 
     arquivo_saida = nome_arquivo_saida
 )
+
+df_xenakis # Mostra o dataframe gerado, para que você confira com o arquivo MIDI.
 ```
 
 6) Após executar o código acima, será gerado um arquivo MIDI, que estará armazenado nessa seção do Google Colab. Para baixá-lo pro seu computador, clique no ícone de uma pasta do lado esquerdo da tela, coloque o mouse em cima do arquivo MIDI gerado, clique no `...` vertical que irá aparecer e depois em "Fazer download.
