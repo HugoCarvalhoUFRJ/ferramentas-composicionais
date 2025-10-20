@@ -7,7 +7,7 @@ Código desenvolvido a pedido do [Prof. Liduino Pitombeira](https://pitombeira.c
 2) Na célula que tem um botão de `Play` do lado esquerdo, copie e cole as duas linhas de código abaixo:
 
 ```python
-https://raw.githubusercontent.com/HugoCarvalhoUFRJ/ferramentas-composicionais/refs/heads/main/calculadora-hindemith/HINDEMITH.py`
+!wget https://raw.githubusercontent.com/HugoCarvalhoUFRJ/ferramentas-composicionais/refs/heads/main/calculadora-hindemith/HINDEMITH.py`
 from HINDEMITH import *
 ```
 
